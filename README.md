@@ -1,0 +1,17 @@
+# e-commerce-nepal
+- https://bizbazar.com.np/
+- https://brother-mart.com/
+- https://daraz.com.np/
+- https://dealayo.com/
+- https://foodmandu.com/
+- https://hamrobazaar.com/
+- https://jeevee.com/
+- https://kinaun.com/
+- https://mega.com.np/
+- https://meroshopping.com/
+- https://muncha.com/
+- https://okdam.com/
+- https://olizstore.com/
+- https://smartdoko.com/
+- https://sybazzar.com/
+- https://thulo.com.np/
