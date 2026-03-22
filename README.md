@@ -6,57 +6,74 @@
 ---
 
 ## A <a id="a"></a>
-*(empty)*
+- https://arkostore.com/
+- https://aamababa.com.np/
+- https://aamaagro.com.np/shop/
+- https://aamascreation.com/
+- https://aamakoachar.com/
+- https://admandu.com/
 
 ## B <a id="b"></a>
 - https://bizbazar.com.np/
 - https://brother-mart.com/
+- https://www.bhojdeals.com/
+- https://bigmart.com.np/
+- https://babyshopnepal.com/
+- https://buysamsung.com.np/
 
 ## C <a id="c"></a>
-*(empty)*
+- https://calibershoes.com/
 
 ## D <a id="d"></a>
 - https://daraz.com.np/
 - https://dealayo.com/
+- https://dokoonline.com/
+- https://dokonepal.com.np/
 
 ## E <a id="e"></a>
-*(empty)*
-
+- https://ebeema.com/
+- https://easybazaaronline.com/
+  
 ## F <a id="f"></a>
-*(empty)*
+- https://foodmandu.com/
+- https://fab-nepal.com/
 
 ## G <a id="g"></a>
-*(empty)*
+-https://www.giftmandu.com/
 
 ## H <a id="h"></a>
 - https://hamrobazaar.com/
 
 ## I <a id="i"></a>
-*(empty)*
-
+- https://istore.com.np/
+  
 ## J <a id="j"></a>
 - https://jeevee.com/
 
 ## K <a id="k"></a>
 - https://kinaun.com/
+- https://khaanpin.com/
 
 ## L <a id="l"></a>
-*(empty)*
+- https://www.logo-madeinnepal.com/
 
+  
 ## M <a id="m"></a>
 - https://mega.com.np/
 - https://meroshopping.com/
 - https://muncha.com/
+- https://merokirana.com/
 
 ## N <a id="n"></a>
-*(empty)*
-
+- https://www.nepdeal.com.np/
+- https://www.neostore.com.np/
+- 
 ## O <a id="o"></a>
 - https://okdam.com/
 - https://olizstore.com/
 
 ## P <a id="p"></a>
-*(empty)*
+-https://pasal.com/ (app)
 
 ## Q <a id="q"></a>
 *(empty)*
@@ -72,8 +89,8 @@
 - https://thulo.com.np/
 
 ## U <a id="u"></a>
-*(empty)*
-
+- https://ugcakes.com/
+  
 ## V <a id="v"></a>
 *(empty)*
 
